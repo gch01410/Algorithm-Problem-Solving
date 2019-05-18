@@ -36,6 +36,7 @@
 - [이차원 배열과 연산](https://www.acmicpc.net/problem/17140)
 - [연구소2](https://www.acmicpc.net/problem/17141)
 - [연구소3](https://www.acmicpc.net/problem/17142)
+- [유기농 배추](https://www.acmicpc.net/problem/1012)
 
 
 ## Programmers
