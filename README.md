@@ -88,6 +88,9 @@
 - [스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993)
 - [방문 길이](https://programmers.co.kr/learn/courses/30/lessons/49994)
 - [쿠키 구입](https://programmers.co.kr/learn/courses/30/lessons/49995)
+- [추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676)
+- [뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)
+- [셔틀버스](https://programmers.co.kr/learn/courses/30/lessons/17678)
 
 
 
