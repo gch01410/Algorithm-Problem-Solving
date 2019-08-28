@@ -92,6 +92,7 @@
 - [뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)
 - [셔틀버스](https://programmers.co.kr/learn/courses/30/lessons/17678)
 - [프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679)
+- [비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)
 
 
 
